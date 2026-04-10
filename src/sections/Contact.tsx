@@ -131,7 +131,7 @@ export default function Contact() {
                 <div className="bg-white rounded-2xl p-4 shadow-card">
                   <div className="w-48 h-48 rounded-xl overflow-hidden">
                     <img
-                      src="/images/qrcode.jpg"
+                      src="images/qrcode.jpg"
                       alt="倾心有约公众号"
                       className="w-full h-full object-cover"
                     />

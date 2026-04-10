@@ -54,7 +54,7 @@ export default function Navigation() {
             >
               <div className="w-10 h-10 lg:w-12 lg:h-12 rounded-full overflow-hidden shadow-soft transition-transform duration-300 group-hover:scale-105">
                 <img
-                  src="/images/logo.jpg"
+                  src="images/logo.jpg"
                   alt="倾心有约"
                   className="w-full h-full object-cover"
                 />

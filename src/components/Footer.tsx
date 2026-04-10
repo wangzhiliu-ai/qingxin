@@ -53,7 +53,7 @@ export default function Footer() {
             <div className="flex items-center gap-3 mb-6">
               <div className="w-12 h-12 rounded-full overflow-hidden bg-white shadow-soft">
                 <img
-                  src="/images/logo.jpg"
+                  src="images/logo.jpg"
                   alt="倾心有约"
                   className="w-full h-full object-cover"
                 />

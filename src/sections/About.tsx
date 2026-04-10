@@ -193,7 +193,7 @@ export default function About() {
                   <div className="text-center p-8">
                     <div className="w-24 h-24 mx-auto mb-4 rounded-full overflow-hidden shadow-soft">
                       <img
-                        src="/images/logo.jpg"
+                        src="images/logo.jpg"
                         alt="倾心有约"
                         className="w-full h-full object-cover"
                       />

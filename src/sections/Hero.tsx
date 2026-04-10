@@ -171,7 +171,7 @@ export default function Hero() {
               {/* Main image */}
               <div className="relative bg-white rounded-[2.5rem] overflow-hidden shadow-card">
                 <img
-                  src="/images/logo.jpg"
+                  src="images/logo.jpg"
                   alt="倾心有约"
                   className="w-full h-auto object-cover"
                 />
@@ -184,7 +184,7 @@ export default function Hero() {
               <div className="absolute -bottom-6 -left-6 bg-white rounded-2xl shadow-card p-4 animate-float">
                 <div className="w-24 h-24 lg:w-28 lg:h-28 rounded-xl overflow-hidden">
                   <img
-                    src="/images/qrcode.jpg"
+                    src="images/qrcode.jpg"
                     alt="扫码关注"
                     className="w-full h-full object-cover"
                   />
